@@ -2,6 +2,10 @@
 
 Aplikasi Android untuk memindai perangkat Bluetooth Low Energy (BLE) di sekitar secara real-time, melihat kekuatan sinyal, dan memantau kedekatan perangkat melalui tampilan radar.
 
+## Disclosure penggunaan AI
+
+Proyek ini dikembangkan dengan bantuan AI generatif untuk mendukung proses pembuatan kode, penulisan dokumentasi, penyusunan struktur proyek, serta review awal terhadap logika dan tata letak implementasi. Penggunaan AI bersifat sebagai alat bantu produktivitas; seluruh keputusan teknis utama, validasi perilaku aplikasi, dan finalisasi implementasi tetap dilakukan oleh pengembang secara manual dan diawasi secara sadar.
+
 ## Fitur
 
 - Memulai dan menghentikan pemindaian BLE secara manual.
